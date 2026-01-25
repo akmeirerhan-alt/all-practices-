@@ -1,0 +1,10 @@
+x=5
+print(type(x))#integer
+x="Hello"
+print(type(x))#string
+x=["PP1","PP2"]
+print(type(x))#list(mutable)
+x={"PP1","PP2"}
+print(type(x))#set 
+x=("PP1","PP2")
+print(type(x))#tuple(immutable)
